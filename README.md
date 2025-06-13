@@ -6,7 +6,7 @@ This repository contains the sentiment analysis model developed for a mobile cro
 Purpose: This model is part of a research project aiming to support local tourism development through data-driven sentiment analysis. The insights generated from user feedback are intended to help the Iloilo City Tourism and Development Office make informed decisions and improve visitor experiences.
 
 How to Use: 
-1. Open the Sentiment Analysis [Adtour].ipynb file using Google Colab or Jupyter Notebook.
+1. Open the .ipynb file using Google Colab or Jupyter Notebook.
 2. Review or modify the preprocessing, training, and evaluation steps.
 3. You may use transfer learning to fine-tune the model with actual reviews from Iloilo tourists for more contextual accuracy.
 4. Export the model in .tflite format for mobile application integration.
